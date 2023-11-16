@@ -1,0 +1,10 @@
+{
+  "name": "Earthbound BGM",
+  "description": "Adds Choose a File from Earthbound as background music.",
+  "author": "xavikvit",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
